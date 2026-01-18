@@ -1,4 +1,5 @@
 # Machine Learning na Pratica
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ## Atividade do Bootcamp Microsoft Azure AI Fundamentals - na DIO
 
 ##### [Documentação Completa](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
